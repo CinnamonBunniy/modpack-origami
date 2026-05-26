@@ -1,0 +1,13 @@
+name = "modpack-origami"
+author = "cinnamonbunniy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c5e57d8e7cb43ab2e2773b4eb465c993146fd844ba2a07c5ed0ae17ab565fe4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.231"

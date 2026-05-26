@@ -1,0 +1,13 @@
+name = "Create: Mind the Gap"
+filename = "create_mtg-1.0.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ALPd7u2x/versions/NhXY8n6J/create_mtg-1.0.2-neoforge.jar"
+hash-format = "sha512"
+hash = "8d016378372f3b84b80e2d0f38fcdb8341ba854aca9d16ab3c2cbddeada81609850733954e383babfcdfb2ebed5cd0508815c5c1b069f42d354c7afaf801e586"
+
+[update]
+[update.modrinth]
+mod-id = "ALPd7u2x"
+version = "NhXY8n6J"
