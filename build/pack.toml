@@ -2,6 +2,7 @@ name = "modpack-origami"
 author = "cinnamonbunniy"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
+no-internal-hashes = true
 
 [index]
 file = "index.toml"
