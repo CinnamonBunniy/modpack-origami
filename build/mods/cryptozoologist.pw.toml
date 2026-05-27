@@ -1,6 +1,6 @@
 name = "Cryptozoologist"
 filename = "cryptozoo_beta-1.1.1-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/20uVxVjE/versions/YkumRGeO/cryptozoo_beta-1.1.1-neoforge-1.21.1.jar"
