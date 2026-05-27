@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "9bda5c5784ac697fc6fe0c1c6e8fec99dac8e2140c500150f055b75bc4a22a3a"
 metafile = true
 
 [[files]]
@@ -443,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
 hash = "fd9adf54c2e23d9db642d95a5125b7e1a4df611cb65adb900c1f55c4278b0ce7"
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "4ea69a4403c83e2d39fdce9ea681b461ecc17a64bb4e9045325f5dc9a5a058dc"
+metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
