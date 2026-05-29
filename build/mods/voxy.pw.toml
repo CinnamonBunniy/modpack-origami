@@ -1,9 +1,0 @@
-name = "Voxy"
-filename = "voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
-side = "client"
-
-[download]
-url = "https://cinnamonbunniy.github.io/modpack/list/modpack-origami/build/mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
-
-hash-format = "sha256"
-hash = "fd9adf54c2e23d9db642d95a5125b7e1a4df611cb65adb900c1f55c4278b0ce7"
