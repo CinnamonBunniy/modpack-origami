@@ -485,6 +485,11 @@ file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
 hash = "fd9adf54c2e23d9db642d95a5125b7e1a4df611cb65adb900c1f55c4278b0ce7"
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "a77f14818cff53f0ef19ae8f97de98bcce208865e0a5082f1513328233cf452d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
 metafile = true
