@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-0.4.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCO8KZvC/versions/E9f3bFaW/witchery-0.4.18.jar"
+hash-format = "sha512"
+hash = "183363b6716c08c0a78c331a057089151b46950801c7332eafd1a531c988e26076473f3c9103cd6a33cf6dcca5f47827b0e72055c85ed891065fd2dac9146e96"
+
+[update]
+[update.modrinth]
+mod-id = "LCO8KZvC"
+version = "E9f3bFaW"
