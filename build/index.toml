@@ -56,6 +56,11 @@ hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
@@ -226,6 +231,11 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-witchcraft.pw.toml"
+hash = "5d000173a47091192a2508d51c7b7b218c0352dbbd84118e25303943e544b832"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
@@ -301,11 +311,6 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
-file = "mods/just-another-witchery-remake.pw.toml"
-hash = "7e403270e3072556b0dd05946c0e53e4cd0348e59e95f37930590d4bf8e5e899"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
+file = "mods/modopedia.pw.toml"
+hash = "e2c7bb4803def8211db5d07c3adca4d0e8877e1a9590174e972cbd0f05fc116b"
 metafile = true
 
 [[files]]
@@ -426,6 +436,11 @@ hash = "57ca1699559cc3e23320e27b1cca02b5c3687bc7c6d4506cd663570971e60dfc"
 metafile = true
 
 [[files]]
+file = "mods/stateobserver.pw.toml"
+hash = "85e4848f535d49b98475c359edfc799ce88ae343985088326cc4a5e91b66ef6c"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -468,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
 hash = "fd9adf54c2e23d9db642d95a5125b7e1a4df611cb65adb900c1f55c4278b0ce7"
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "4ea69a4403c83e2d39fdce9ea681b461ecc17a64bb4e9045325f5dc9a5a058dc"
-metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
