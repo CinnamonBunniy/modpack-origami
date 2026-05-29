@@ -231,11 +231,6 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-witchcraft.pw.toml"
-hash = "5d000173a47091192a2508d51c7b7b218c0352dbbd84118e25303943e544b832"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/just-another-witchery-remake.pw.toml"
+hash = "7e403270e3072556b0dd05946c0e53e4cd0348e59e95f37930590d4bf8e5e899"
 metafile = true
 
 [[files]]
