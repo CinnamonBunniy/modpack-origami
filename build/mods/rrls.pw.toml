@@ -11,3 +11,8 @@ hash = "5a1d6776b2b8769f752a8c60b0f816b05385dfc7c0d27d0b8435bb11825531988e216f10
 [update.modrinth]
 mod-id = "ZP7xHXtw"
 version = "CSHa8VOm"
+
+[option]
+optional = true
+default = true
+description = "Remove the mandatory reloading screen that happens when resource-packs are toggled on/off, but bewarned you may see weird things while resource packs do their loading."
