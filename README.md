@@ -1,2 +1,142 @@
 
 # Hello, World!
+
+Mods in here so far (per iteration 16):
+- 3D Skin Layers
+- AE2 QoL Recipes
+- AE2: Better Villagers
+- Almanac
+- AmbientSounds
+- AppleSkin
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
+- Architectury API
+- BadOptimizations
+- Balm
+- Better Library
+- Better Third Person
+- Better Trees
+- Biolith
+- Building Gadgets
+- Chat Heads
+- Chunky
+- Cloth Config API
+- Comforts
+- Concurrent Chunk Management Engine (NeoForge)
+- Continuity
+- Controlling
+- CoroUtil
+- Create
+- Create Aeronautics
+- Create Big Cannons
+- Create Contraption Terminals
+- Create Deco
+- Create Railways Navigator
+- Create Slice & Dice
+- Create Train Lights
+- Create Train Parts
+- Create Train Utilities
+- Create: Applied Kinetics
+- Create: Better Villagers
+- Create: Connected
+- Create: Copycats+
+- Create: Dragons Plus
+- Create: Enchantment Industry
+- Create: Escalated
+- Create: Mind the Gap
+- Create: Threaded Trains
+- CreateTrainControl
+- CreativeCore
+- Cryptozoologist
+- Curios API
+- Distraction Free Recipes (EMI / REI / JEI)
+- DragonLib
+- EMI
+- EMI Addon: Extra Mod Integrations
+- EMI Ores
+- EMI professions (EMIP)
+- EMI: Create Schematics
+- Entity Culling
+- Explorer's Compass
+- Exposure
+- Exposure: Polaroid
+- FerriteCore
+- FlashFreeze
+- Forgified Fabric API
+- Fusion (Connected Textures)
+- Geckolib
+- GuideME
+- Handcrafted
+- HT's TreeChop
+- ImmediatelyFast
+- In Control!
+- Iris Shaders
+- Jade 🔍
+- Just Another Witchery Remake
+- Just Zoom
+- Konkrete
+- Kotlin for Forge
+- LambDynamicLights - Dynamic Lights
+- Let Me Despawn
+- Lithium
+- Lithostitched
+- Lootr
+- ModernFix
+- Modonomicon
+- Modopedia
+- Moonlight Lib
+- Mouse Tweaks
+- Naturalist
+- Nature's Compass
+- No Chat Reports
+- Packet Fixer
+- Polymorph
+- Quark
+- Rechiseled
+- Rechiseled: Create
+- Regions Unexplored
+- Remove Reloading Screen
+- Resourceful Lib
+- Ritchie's Projectile Library
+- Sable
+- Schematicannon Processing Pattern
+- Searchables
+- Sinytra Connector
+- Sodium
+- Sodium Extra
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sound Physics Remastered
+- StateObserver
+- Steam 'n' Rails Neoforge
+- Storage Drawers
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Tectonic
+- Terralith
+- The Skinwalker Hunt
+- Tom's Simple Storage Mod
+- TxniLib
+- Underground Village, Stoneholm
+- Voxy
+- Waystones
+- What Are They Up To (Watut)
+- Wilderness
+- Xaero Train Map
+- Xaero's Minimap
+- Xaero's World Map
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Extras
+- YUNG's Menu Tweaks
+- Zeta
