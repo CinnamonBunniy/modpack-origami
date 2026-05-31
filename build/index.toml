@@ -66,6 +66,11 @@ hash = "9bde5d565e031f4ca9628cf209d05a4d5c9b6563992844294bc1f38f8b4a41e3"
 metafile = true
 
 [[files]]
+file = "mods/better-trees.pw.toml"
+hash = "014c498f953bdc284f944cb2574f153c165ec5332ddbfa4acd2e7d956a30fe61"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
@@ -566,6 +571,11 @@ hash = "0f67fdb37d6ef354f36a1da5805b5c083be21e7367868ec81d29426d94749609"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
@@ -592,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/wilderness_.pw.toml"
+hash = "5bc17b48e741edf019ed5018608191577acee0bba894e1ce49af7f1b216ae334"
 metafile = true
 
 [[files]]
