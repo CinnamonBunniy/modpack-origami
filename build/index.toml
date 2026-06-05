@@ -86,6 +86,11 @@ hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "c5adc29c7b5aa88587ab54f39d654216bb087e767727a182a4bf44f98228ba5c"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
@@ -618,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
 hash = "9e5eedc2329699c885d2630198e7f2f00979f5eb74aed7acf362957df78454bf"
+metafile = true
+
+[[files]]
+file = "mods/voiceless-survival.pw.toml"
+hash = "80fc64f158eead546594d1282fe4402eb420f1eb4a40e2df6287ffdf3573a6ce"
 metafile = true
 
 [[files]]
