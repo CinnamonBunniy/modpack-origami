@@ -251,6 +251,11 @@ hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
 metafile = true
 
 [[files]]
+file = "mods/cryptozoologist.pw.toml"
+hash = "90c3306d580520248bd89035f7387598a6bc17f3f2d55c1b8937339b7a816c9e"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
