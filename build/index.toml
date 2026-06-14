@@ -196,6 +196,11 @@ hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
+file = "mods/create-enhanced-schematicannon.pw.toml"
+hash = "3e6507a1178da9a7f650f2f8a1c59c6c6c2200fd66a4ea3eb67d2d679f19dcce"
+metafile = true
+
+[[files]]
 file = "mods/create-mtg.pw.toml"
 hash = "b8d0b0e3f478fffa4100b188fc3d7974c42a6bf88e5611a88acab0814dae9920"
 metafile = true
