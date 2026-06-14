@@ -1,0 +1,13 @@
+name = "Ghast Tear Recipe"
+filename = "ghast-tear-recipe-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Ls4GxRx/versions/GAyqyajT/ghast-tear-recipe-1.21.1.jar"
+hash-format = "sha512"
+hash = "05dcca74e58c1e3a09a0cfaa94109153ed9cc87c24741169b31d36972c71809f75d021b1ffd50c2a186d5540d06ae991cd925ed592e421d15a5196b1c5feb67e"
+
+[update]
+[update.modrinth]
+mod-id = "6Ls4GxRx"
+version = "GAyqyajT"
