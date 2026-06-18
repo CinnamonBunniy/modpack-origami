@@ -226,6 +226,11 @@ hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "aeca18f6b833fe752266dfbd45c7d933fce2e85e6d6abbe7782b515b3b674d3d"
+metafile = true
+
+[[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
 hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
 metafile = true
