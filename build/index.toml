@@ -781,6 +781,11 @@ hash = "9e5eedc2329699c885d2630198e7f2f00979f5eb74aed7acf362957df78454bf"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "80fc64f158eead546594d1282fe4402eb420f1eb4a40e2df6287ffdf3573a6ce"
 metafile = true
