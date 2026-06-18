@@ -1,0 +1,13 @@
+name = "Create: Oreos"
+filename = "create_oreos-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WSsCS27/versions/1LWZQbLZ/create_oreos-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "13ddb3a0bc86dce0287572fde325751e66e2ce508875d41657814b7826f8981d6ee1f9d5e4be35cfc7b07e45f0962239583921ff6726a16a686c7fb1f2f1712e"
+
+[update]
+[update.modrinth]
+mod-id = "4WSsCS27"
+version = "1LWZQbLZ"
