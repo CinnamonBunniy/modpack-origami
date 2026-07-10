@@ -341,6 +341,11 @@ hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
