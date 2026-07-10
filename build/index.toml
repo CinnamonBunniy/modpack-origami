@@ -1,6 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/mini-blocks-datapack.pw.toml"
+hash = "e0b2289994a56c86b499ba85f681c8af3560996012955c21377b666272b2245e"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/more mob heads v2.18.3 (MC 1.21-1.21.11).zip"
+hash = "d8b5f7a439e20bba95d3e9740eeb64cec777e637ab23b4d1f6fd3a1f478685e3"
+
+[[files]]
+file = "config/openloader/data/player head drops v1.1.15 (MC 1.21-1.21.11).zip"
+hash = "d61db11a802b4259202454af9dc7187df0a93ab6dea83a7df88ab32df019ee78"
+
+[[files]]
+file = "config/openloader/data/wandering trades v1.7.14 (MC 1.21-1.21.11).zip"
+hash = "6adfb1427f10ed28fc4490e40516d440b5cce0d8098b8dd1a8d9700491245380"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true

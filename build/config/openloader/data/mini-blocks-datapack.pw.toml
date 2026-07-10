@@ -1,0 +1,13 @@
+name = "Mini Blocks"
+filename = "mini-blocks-v1-1-1-mc-1-21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sqhvLNrE/versions/cK18ir0V/mini-blocks-v1-1-1-mc-1-21.zip"
+hash-format = "sha512"
+hash = "dc4f5d1132d159185f879d86c167cca9849a62eac3cef7653acb445320a23ea415d16e81d55aefed26d670e38a416d10951e3abaf6b3d4d3bde47bc7629463ff"
+
+[update]
+[update.modrinth]
+mod-id = "sqhvLNrE"
+version = "cK18ir0V"
