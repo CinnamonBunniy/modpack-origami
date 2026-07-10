@@ -11,3 +11,6 @@ hash = "b07b2a550b6d4767c2d68161f269db67f9efda43d045928a3f6f7b35ebd1291c"
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.231"
+
+[options]
+datapack-folder = "config/openloader/data"
