@@ -333,6 +333,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+metafile = true
+
+[[files]]
 file = "mods/createtraincontrol.pw.toml"
 hash = "630a70442bcc7191da786599bb958b2e8d03335d2c440078c255fe0680e87100"
 metafile = true
