@@ -378,6 +378,11 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
@@ -725,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b06f7c8b60894505d5ef5bc2386989a8c837e2f08de8b5bd0da745dee788860a"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "ea53e1f266236ded756baa6ae49292583fa5f21c5c3134dfef821b11a7f169fb"
 metafile = true
 
 [[files]]
