@@ -78,6 +78,11 @@ hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "382d7eb9e95beb4224fdb16e6781604c0f12d49ba3b900b323b1cb0ffabec13a"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
 metafile = true
@@ -203,6 +208,11 @@ hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "9bd02825b814560982b069fae1f560b047f6a06a82a92f01bd699fc4db6c66de"
+metafile = true
+
+[[files]]
 file = "mods/create-better-villagers.pw.toml"
 hash = "3c32f2b61b848d25bd09f139e319fb78ec505b80b62b09febb70bc45eeee198a"
 metafile = true
@@ -210,6 +220,16 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "c09447bd8598423945d8d58907a5ec9d6e4b1d4abd55d40dcc63826db9af9381"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
 
 [[files]]
@@ -305,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
 
 [[files]]
@@ -500,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
@@ -830,6 +860,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "13415590b9e3f8aa1ca0cf33be26d697fa4b00de9c29e999815cadd37cf17175"
 metafile = true
 
 [[files]]
